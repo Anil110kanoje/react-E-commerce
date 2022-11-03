@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: rgb(177, 201, 234);
+}
+
+
+.cart_box img {
+  width: 100px;
+  height: 100px;
+}
+
+.cart_img {
+  display: flex;
+  width: auto;
+}
+
+.cart_img p {
+  font-weight: bold;
+  margin-left: 30px;
+}
+
+.cart_box {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+  border-bottom: 2px solid skyblue;
+}
+
+.total{
+  padding: 20px;
+  background-color: rgb(96, 222, 180);
+  font-weight: bold;
+}
+
+

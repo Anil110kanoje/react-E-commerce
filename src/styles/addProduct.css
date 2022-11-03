@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+
+.form {
+    position: absolute;
+    left: 36%;
+    top: 15%;
+    padding: 50px 125px;
+    width: 500px;
+}
